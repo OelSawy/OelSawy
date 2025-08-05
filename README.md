@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar</h1>
 <h3 align="center">A passionate Computer Engineering student at The German University in Cairo</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oelsawy&label=Profile%20views&color=0e75b6&style=plastic" alt="oelsawy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oelsawy" alt="oelsawy" /></a> </p>
 
 - 🌱 I’m currently learning **Software testing with PlayWright**
 
