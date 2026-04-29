@@ -21,7 +21,7 @@
     <img src="https://cdn.simpleicons.org/github/181717" height="40"/>
   </a>
   <a href="https://linkedin.com/in/oelsawy" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="40"/>
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40"/>
   </a>
 </p>
 
