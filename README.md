@@ -21,10 +21,7 @@
     <img src="https://cdn.simpleicons.org/github/181717" height="40"/>
   </a>
   <a href="https://linkedin.com/in/oelsawy" style="text-decoration:none;">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40"/>
-  </a>
-  <a href="https://twitter.com/Sawyyz_" style="text-decoration:none;">
-    <img src="https://cdn.simpleicons.org/twitter/1DA1F2" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="40"/>
   </a>
 </p>
 
@@ -34,11 +31,11 @@
 
 <p align="left">
 
-  <a href="https://aws.amazon.com" style="text-decoration:none;"><img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="45"/></a>
-  <a href="https://azure.microsoft.com" style="text-decoration:none;"><img src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="45"/></a>
+  <a href="https://aws.amazon.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" height="45"/></a>
+  <a href="https://azure.microsoft.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftazure.svg" height="45"/></a>
   <a href="https://www.gnu.org/software/bash/" style="text-decoration:none;"><img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="45"/></a>
   <a href="https://getbootstrap.com" style="text-decoration:none;"><img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="45"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="text-decoration:none;"><img src="https://cdn.simpleicons.org/css3/1572B6" height="45"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" height="45"/></a>
   <a href="https://dart.dev" style="text-decoration:none;"><img src="https://cdn.simpleicons.org/dart/0175C2" height="45"/></a>
   <a href="https://www.docker.com" style="text-decoration:none;"><img src="https://cdn.simpleicons.org/docker/2496ED" height="45"/></a>
   <a href="https://expressjs.com" style="text-decoration:none;"><img src="https://cdn.simpleicons.org/express/000000" height="45"/></a>
