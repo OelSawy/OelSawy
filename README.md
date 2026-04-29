@@ -23,6 +23,9 @@
   <a href="https://linkedin.com/in/oelsawy" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="40"/>
   </a>
+  <a href="https://twitter.com/Sawyyz_" style="text-decoration:none;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" height="40"/>
+  </a>
 </p>
 
 ---
@@ -30,7 +33,6 @@
 ### ⚙️ Languages and Tools
 
 <p align="left">
-
   <a href="https://aws.amazon.com" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" height="45"/></a>
   <a href="https://azure.microsoft.com" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftazure.svg" height="45"/></a>
   <a href="https://www.gnu.org/software/bash/" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gnubash.svg" height="45"/></a>
@@ -49,9 +51,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" height="45"/></a>
   <a href="https://www.jenkins.io" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/jenkins.svg" height="45"/></a>
   <a href="https://kubernetes.io" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kubernetes.svg" height="45"/></a>
-
   <br/>
-
   <a href="https://www.linux.org" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linux.svg" height="45"/></a>
   <a href="https://www.mongodb.com" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mongodb.svg" height="45"/></a>
   <a href="https://nestjs.com" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nestjs.svg" height="45"/></a>
@@ -68,7 +68,6 @@
   <a href="https://tailwindcss.com" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg" height="45"/></a>
   <a href="https://www.typescriptlang.org" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/typescript.svg" height="45"/></a>
   <a href="https://unity.com" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/unity.svg" height="45"/></a>
-
 </p>
 
 ---
