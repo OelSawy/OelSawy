@@ -18,13 +18,13 @@
 
 <p align="left">
   <a href="https://github.com/OelSawy" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" height="40"/>
+    <img src="https://cdn.simpleicons.org/github/181717" height="40"/>
   </a>
   <a href="https://linkedin.com/in/oelsawy" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="40"/>
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40"/>
   </a>
   <a href="https://twitter.com/Sawyyz_" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" height="40"/>
+    <img src="https://cdn.simpleicons.org/twitter/1DA1F2" height="40"/>
   </a>
 </p>
 
@@ -33,41 +33,45 @@
 ### ⚙️ Languages and Tools
 
 <p align="left">
-  <a href="https://aws.amazon.com" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" height="45"/></a>
-  <a href="https://azure.microsoft.com" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftazure.svg" height="45"/></a>
-  <a href="https://www.gnu.org/software/bash/" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gnubash.svg" height="45"/></a>
-  <a href="https://getbootstrap.com" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/bootstrap.svg" height="45"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" height="45"/></a>
-  <a href="https://dart.dev" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/dart.svg" height="45"/></a>
-  <a href="https://www.docker.com" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/docker.svg" height="45"/></a>
-  <a href="https://expressjs.com" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/express.svg" height="45"/></a>
-  <a href="https://firebase.google.com" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/firebase.svg" height="45"/></a>
-  <a href="https://flask.palletsprojects.com" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/flask.svg" height="45"/></a>
-  <a href="https://flutter.dev" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/flutter.svg" height="45"/></a>
-  <a href="https://cloud.google.com" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlecloud.svg" height="45"/></a>
-  <a href="https://git-scm.com" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" height="45"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" height="45"/></a>
-  <a href="https://www.java.com" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/openjdk.svg" height="45"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" height="45"/></a>
-  <a href="https://www.jenkins.io" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/jenkins.svg" height="45"/></a>
-  <a href="https://kubernetes.io" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kubernetes.svg" height="45"/></a>
+
+  <a href="https://aws.amazon.com" style="text-decoration:none;"><img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="45"/></a>
+  <a href="https://azure.microsoft.com" style="text-decoration:none;"><img src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="45"/></a>
+  <a href="https://www.gnu.org/software/bash/" style="text-decoration:none;"><img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="45"/></a>
+  <a href="https://getbootstrap.com" style="text-decoration:none;"><img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="45"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="text-decoration:none;"><img src="https://cdn.simpleicons.org/css3/1572B6" height="45"/></a>
+  <a href="https://dart.dev" style="text-decoration:none;"><img src="https://cdn.simpleicons.org/dart/0175C2" height="45"/></a>
+  <a href="https://www.docker.com" style="text-decoration:none;"><img src="https://cdn.simpleicons.org/docker/2496ED" height="45"/></a>
+  <a href="https://expressjs.com" style="text-decoration:none;"><img src="https://cdn.simpleicons.org/express/000000" height="45"/></a>
+  <a href="https://firebase.google.com" style="text-decoration:none;"><img src="https://cdn.simpleicons.org/firebase/FFCA28" height="45"/></a>
+  <a href="https://flask.palletsprojects.com" style="text-decoration:none;"><img src="https://cdn.simpleicons.org/flask/000000" height="45"/></a>
+  <a href="https://flutter.dev" style="text-decoration:none;"><img src="https://cdn.simpleicons.org/flutter/02569B" height="45"/></a>
+  <a href="https://cloud.google.com" style="text-decoration:none;"><img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="45"/></a>
+  <a href="https://git-scm.com" style="text-decoration:none;"><img src="https://cdn.simpleicons.org/git/F05032" height="45"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="text-decoration:none;"><img src="https://cdn.simpleicons.org/html5/E34F26" height="45"/></a>
+  <a href="https://www.java.com" style="text-decoration:none;"><img src="https://cdn.simpleicons.org/openjdk/ED8B00" height="45"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="text-decoration:none;"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="45"/></a>
+  <a href="https://www.jenkins.io" style="text-decoration:none;"><img src="https://cdn.simpleicons.org/jenkins/D24939" height="45"/></a>
+  <a href="https://kubernetes.io" style="text-decoration:none;"><img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="45"/></a>
+
   <br/>
-  <a href="https://www.linux.org" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linux.svg" height="45"/></a>
-  <a href="https://www.mongodb.com" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mongodb.svg" height="45"/></a>
-  <a href="https://nestjs.com" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nestjs.svg" height="45"/></a>
-  <a href="https://nextjs.org" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nextdotjs.svg" height="45"/></a>
-  <a href="https://nginx.org" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nginx.svg" height="45"/></a>
-  <a href="https://nodejs.org" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nodedotjs.svg" height="45"/></a>
-  <a href="https://www.postgresql.org" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postgresql.svg" height="45"/></a>
-  <a href="https://www.python.org" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" height="45"/></a>
-  <a href="https://www.rabbitmq.com" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/rabbitmq.svg" height="45"/></a>
-  <a href="https://react.dev" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" height="45"/></a>
-  <a href="https://redis.io" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/redis.svg" height="45"/></a>
-  <a href="https://redux.js.org" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/redux.svg" height="45"/></a>
-  <a href="https://spring.io" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/spring.svg" height="45"/></a>
-  <a href="https://tailwindcss.com" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg" height="45"/></a>
-  <a href="https://www.typescriptlang.org" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/typescript.svg" height="45"/></a>
-  <a href="https://unity.com" style="text-decoration:none;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/unity.svg" height="45"/></a>
+
+  <a href="https://www.linux.org" style="text-decoration:none;"><img src="https://cdn.simpleicons.org/linux/FCC624" height="45"/></a>
+  <a href="https://www.mongodb.com" style="text-decoration:none;"><img src="https://cdn.simpleicons.org/mongodb/47A248" height="45"/></a>
+  <a href="https://nestjs.com" style="text-decoration:none;"><img src="https://cdn.simpleicons.org/nestjs/E0234E" height="45"/></a>
+  <a href="https://nextjs.org" style="text-decoration:none;"><img src="https://cdn.simpleicons.org/nextdotjs/000000" height="45"/></a>
+  <a href="https://nginx.org" style="text-decoration:none;"><img src="https://cdn.simpleicons.org/nginx/009639" height="45"/></a>
+  <a href="https://nodejs.org" style="text-decoration:none;"><img src="https://cdn.simpleicons.org/nodedotjs/339933" height="45"/></a>
+  <a href="https://www.postgresql.org" style="text-decoration:none;"><img src="https://cdn.simpleicons.org/postgresql/4169E1" height="45"/></a>
+  <a href="https://www.python.org" style="text-decoration:none;"><img src="https://cdn.simpleicons.org/python/3776AB" height="45"/></a>
+  <a href="https://www.rabbitmq.com" style="text-decoration:none;"><img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="45"/></a>
+  <a href="https://react.dev" style="text-decoration:none;"><img src="https://cdn.simpleicons.org/react/61DAFB" height="45"/></a>
+  <a href="https://redis.io" style="text-decoration:none;"><img src="https://cdn.simpleicons.org/redis/DC382D" height="45"/></a>
+  <a href="https://redux.js.org" style="text-decoration:none;"><img src="https://cdn.simpleicons.org/redux/764ABC" height="45"/></a>
+  <a href="https://spring.io" style="text-decoration:none;"><img src="https://cdn.simpleicons.org/spring/6DB33F" height="45"/></a>
+  <a href="https://tailwindcss.com" style="text-decoration:none;"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="45"/></a>
+  <a href="https://www.typescriptlang.org" style="text-decoration:none;"><img src="https://cdn.simpleicons.org/typescript/3178C6" height="45"/></a>
+  <a href="https://unity.com" style="text-decoration:none;"><img src="https://cdn.simpleicons.org/unity/000000" height="45"/></a>
+
 </p>
 
 ---
